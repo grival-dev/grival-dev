@@ -1,16 +1,16 @@
-## Hi there 👋
+# Grival Dev
 
-<!--
-**grival-dev/grival-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Android Developer focused on building **MVPs** and production-ready applications. I handle everything from logic to backend integration, ensuring a functional and scalable end product.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Mobile:** Java (Android Studio)
+- **Backend:** Java Spring Boot, REST APIs
+- **Database:** SQL (PostgreSQL, MongoDB)
+- **Design:** UI/UX Prototyping in Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Delivery Model
+I provide the **complete source code**, **technical documentation**, and **signed release files** (.apk / .aab). Note: I do not handle store publishing; I deliver the ready-to-use bundle for your own distribution.
+
+
+---
+*Currently maintaining apps on Huawei App Gallery. I deliver the engine and the keys; you own the vehicle.*
