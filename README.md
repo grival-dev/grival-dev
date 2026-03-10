@@ -1,16 +1,10 @@
-# Grival Dev
+# Grival Dev 👋
 
-Full-stack Android Developer focused on building **MVPs** and production-ready applications. I handle everything from logic to backend integration, ensuring a functional and scalable end product.
+Backend Developer specializing in **Java** and **Spring Boot**. 
+Focusing on scalable architecture, event-driven flows, and database management.
 
-## Tech Stack
-- **Mobile:** Java (Android Studio)
-- **Backend:** Java Spring Boot, REST APIs
-- **Database:** SQL (PostgreSQL, MongoDB)
-- **Design:** UI/UX Prototyping in Figma
+-  **Backend:** Java, Spring Boot, Kafka, PostgreSQL & MongoDB
+-  **Android:** Java & Kotlin (MVP/Architecture)
 
-### Delivery Model
-I provide the **complete source code**, **technical documentation**, and **signed release files** (.apk / .aab). Note: I do not handle store publishing; I deliver the ready-to-use bundle for your own distribution.
+📫 Contact: grivall.dev@gmail.com
 
-
----
-*Currently maintaining apps on Huawei App Gallery. I deliver the engine and the keys; you own the vehicle.*
