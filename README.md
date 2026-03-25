@@ -1,10 +1,17 @@
-# Grival Dev 👋
+# Hi! I’m Gregory 👋  
+## Android & Backend Developer
 
-Backend Developer specializing in **Java** and **Spring Boot**. 
-Focusing on scalable architecture, event-driven flows, and database management.
+🔹 Java | Spring Boot | MVP/Architecture 
+🔹 OCR & TTS Apps  
+🔹 Backend & REST APIs
 
--  **Backend:** Java, Spring Boot, Kafka, PostgreSQL & MongoDB
--  **Android:** Java & Kotlin (MVP/Architecture)
+### Skills
+```js
+const Skills = {
+  backend: ['Java', 'Spring Boot', 'REST APIs', 'Databases'],
+  mobile: ['Android', 'Kotlin', 'Java'],
+  tools: ['Git', 'Docker']
+};
 
 📫 Contact: grivall.dev@gmail.com
 
