@@ -14,7 +14,7 @@ const Skills = {
 };
 
 Portfolio Highlights
-HotelPortalen: Android app for hotel search, booking & management
+HotelPortalen: Backend services for hotel search, booking & management
 Calorie Tracker MVP: Track BMR, daily intake, visualize data with charts
 ScanTextAndListen: OCR to text-to-speech utility (In Progress)
 
