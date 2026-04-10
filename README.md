@@ -9,7 +9,7 @@
 ```js
 const Skills = {
   backend: ['Java', 'Spring Boot', 'REST APIs', 'Databases'],
-  mobile: ['Android', 'Kotlin', 'Java'],
+  mobile: ['Android', 'Java'],
   tools: ['Git', 'Docker']
 };
 
